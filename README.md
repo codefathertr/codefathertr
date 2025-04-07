@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Taha 👋</h1>
+<h3 align="center">aka <strong>codefathertr</strong> – A passionate full-stack developer, automation lover, and Web3 explorer.</h3>
 
-<!--
-**codefathertr/codefathertr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Web3%20Enthusiast;Telegram%20Bot%20Master;Automation%20Engineer;Always%20learning%20new%20techs...&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,react,nextjs,nodejs,mysql,sqlite,linux,bash,git,github&perline=7" alt="Tech Stack" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building **Telegram bots**, **crypto integrations**, and **custom automation panels**
+- 💼 Founder-level experience in managing Telegram airdrop networks & wallet orchestration
+- 🧠 Exploring: **Solana**, **TON**, **EVM chains**, **AI-automation**
+- 🤝 Open to collaboration on serious SaaS, crypto, or AI-based projects
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codefathertr&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codefathertr&theme=github-dark&hide_border=true" height="180px"/>
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codefathertr&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:seninmailin@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/codefathertr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/taha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎨 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codefathertr&theme=algolia&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 🖼️ Bonus: Random Dev Meme
+
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="500px"/>
+</p>
