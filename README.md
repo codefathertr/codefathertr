@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Taha 👋</h1>
-<h3 align="center">aka <strong>codefathertr</strong> – A passionate full-stack developer, automation lover, and Web3 explorer.</h3>
+<h3 align="center"> <strong>codefathertr</strong> – A passionate full-stack developer, automation lover, and Web3 explorer.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Web3%20Enthusiast;Telegram%20Bot%20Master;Automation%20Engineer;Always%20learning%20new%20techs...&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
