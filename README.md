@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,react,nextjs,nodejs,mysql,sqlite,linux,bash,git,github&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,nodejs,mysql,sqlite,linux,bash,git,github&perline=7" alt="Tech Stack" />
 </p>
 
 ---
