@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Taha 👋</h1>
-<h3 align="center"> <strong>codefathertr</strong> – A passionate full-stack developer, automation lover, and Web3 explorer.</h3>
+<h3 align="center"> <strong>codefathertr</strong> – A passionate full-stack developer, automation lover, and Telegram bot creator.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Web3%20Enthusiast;Telegram%20Bot%20Master;Automation%20Engineer;Always%20learning%20new%20techs...&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Telegram%20Bot%20Master;Automation%20Engineer;Always%20learning%20new%20techs...&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 
 - 🔭 Currently building **Telegram bots**, **crypto integrations**, and **custom automation panels**
 - 💼 Founder-level experience in managing Telegram airdrop networks & wallet orchestration
-- 🧠 Exploring: **Solana**, **TON**, **EVM chains**, **AI-automation**
-- 🤝 Open to collaboration on serious SaaS, crypto, or AI-based projects
+- 🧠 Exploring: **AI-automation** and **full-stack development**
+- 🤝 Open to collaboration on serious SaaS or automation projects
 
 ---
 
@@ -56,7 +56,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codefathertr&theme=algolia&column=7&margin-w=10&margin-h=10" />
 </p>
-
----
-
- 
